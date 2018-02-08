@@ -1,12 +1,11 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE:Catering solutions
+PURPOSE OF PROJECT:For school project
+VERSION or DATE:1.0
+HOW TO START THIS PROJECT:right click on class and click on runSystem to create instance of class , then go to that instance and right click agin and click runSystem.
+AUTHORS:Abhsihek kumar,Anukul kumar
 USER INSTRUCTIONS:
+Requirements:Bluejava
